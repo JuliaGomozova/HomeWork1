@@ -9,7 +9,7 @@ int num2 = Convert.ToInt32(numStr2);
 
 if (num1>num2) 
 {
-     Console.WriteLine($"число {num1} больше числа {num2}");
+    Console.WriteLine($"число {num1} больше числа {num2}");
 }
 else if (num2>num1)
 { 
