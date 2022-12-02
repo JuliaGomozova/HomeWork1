@@ -7,7 +7,6 @@ string numStr2 = Console.ReadLine() ??"";
 int num1 = Convert.ToInt32(numStr1);
 int num2 = Convert.ToInt32(numStr2);
 
-    Console.WriteLine("эти числа равны"); 
     if (num1>num2) 
     {
         Console.WriteLine($"число {num1} больше числа {num2}");
